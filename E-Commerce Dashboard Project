@@ -1,0 +1,33 @@
+Objective
+Developed an interactive Power BI dashboard for an online e-commerce platform to track and analyze Top Trends, Top Sales, and Top Customers, empowering stakeholders to make data-driven decisions.
+
+Tools & Technologies
+Power BI, SQL, DAX, Power Query, Excel, Azure (optional).
+
+Responsibilities
+Data Collection & Cleaning
+
+Extracted and integrated data from multiple sources, including the e-commerce database, sales logs, and web analytics tools.
+Cleaned and transformed raw data using Power Query to ensure accuracy and consistency.
+Data Modeling
+
+Designed a star schema data model with fact tables for sales and dimension tables for customers, products, and regions.
+Created calculated columns and measures using DAX to handle KPIs like sales growth and customer lifetime value.
+Visualization
+
+Top Trends: Developed visuals to display trending products/categories based on sales volume, reviews, and page views.
+Top Sales: Created sales performance visuals, including bar charts for daily/monthly sales and top-selling products.
+Top Customers: Built customer segmentation visuals using heatmaps and tables to highlight high-value customers and their purchase patterns.
+Dynamic Features
+
+Implemented slicers for filtering by time period, region, category, and sales channels.
+Added drill-through functionality to view detailed insights for specific products or customers.
+Publishing & Collaboration
+
+Published the dashboard to Power BI Service for stakeholder access.
+Configured alerts for real-time updates on critical KPIs.
+Conducted training sessions for team members to interpret dashboard insights.
+Outcome
+Increased Sales Insights: Provided real-time visibility into high-performing products and customers, boosting targeted marketing efforts.
+Improved Strategy: Helped identify trending categories, leading to a 20% increase in promotional campaign success rates.
+Customer Retention: Enabled personalized offers for top customers, reducing churn rate by 15%.
